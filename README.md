@@ -6,12 +6,13 @@
 
 
 ### Sobre mim:
-Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de São Paulo, Brasil.
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de São Paulo, Brasil
 
 ### Projetos:
 
-[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game).
-[Aluga Mais](https://github.com/vagnerassilva/aluga-mais-2/tree/vagner).
+[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game)
+
+[Aluga Mais](https://github.com/vagnerassilva/aluga-mais-2/tree/vagner)
 
 
 ### Tecnologias:

@@ -2,8 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagnerassilva/)
-[![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](vagner.santossilva@hotmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(11)99157-7501)
+
 
 
 ### Sobre mim:
@@ -11,8 +10,8 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de
 
 ### Projetos:
 
-[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game)
-[Aluga Mais](https://github.com/vagnerassilva/aluga-mais-2/tree/vagner)
+[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game).
+[Aluga Mais](https://github.com/vagnerassilva/aluga-mais-2/tree/vagner).
 
 
 ### Tecnologias:

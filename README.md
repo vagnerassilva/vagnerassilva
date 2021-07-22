@@ -1,10 +1,6 @@
 ## Olá, meu nome é Vagner Silva.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagnerassilva/)
-
-
-
 ### Sobre mim:
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de São Paulo, Brasil
 
@@ -13,7 +9,6 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de
 [Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game) - Jogo ao estilo Whack-a-mole feito com HTML, CSS e JavasCript.
 
 [Aluga Mais](https://github.com/vagnerassilva/aluga-mais-2/tree/vagner) - Aplicativo para disponibilizar e alugar veículos particulares utilizando ReactJS.
-
 
 ### Tecnologias:
 
@@ -27,8 +22,13 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de
 ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ### GitHub status: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerassilva&hide=stars,issues)\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerassilva&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerassilva&layout=compact)
+
+### Contato:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagnerassilva/)
+
+📫: vagner.santossilva@hotmail.com

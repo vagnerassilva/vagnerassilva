@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de
 
 ### Projetos:
 
-[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game) - Jogo ao estilo Whack-a-mole feito com HTML, CSS e JavasCript.
+[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game) - Jogo ao estilo Whack-a-mole feito com HTML, CSS e JavaScript.
 
 [Aluga Mais](https://github.com/vagnerassilva/aluga-mais-2/tree/vagner) - Aplicativo para disponibilizar e alugar veículos particulares utilizando ReactJS.
 

@@ -6,9 +6,11 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end de
 
 ### Projetos:
 
-[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game) - Jogo ao estilo Whack-a-mole feito com HTML, CSS e JavaScript.
+[Trippers](https://github.com/taisforsini/trippers-client) - Rede social de viagens utilizando ReactJS e MongoDB.
 
 [Aluga Mais](https://github.com/vagnerassilva/aluga-mais-2/tree/vagner) - Aplicativo para disponibilizar e alugar veículos particulares utilizando ReactJS.
+
+[Kill the Chupacabra](https://github.com/vagnerassilva/project-kill-the-chupacabra-js-game) - Jogo ao estilo Whack-a-mole feito com HTML, CSS e JavaScript.
 
 ### Tecnologias:
 
